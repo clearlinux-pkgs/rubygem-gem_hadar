@@ -4,7 +4,7 @@
 #
 Name     : rubygem-gem_hadar
 Version  : 1.2.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/gem_hadar-1.2.1.gem
 Source0  : https://rubygems.org/downloads/gem_hadar-1.2.1.gem
 Summary  : No detailed summary available
